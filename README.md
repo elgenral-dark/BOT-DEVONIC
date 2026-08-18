@@ -28,13 +28,13 @@
   <img src="https://i.postimg.cc/QMy5MHN0/IMG-20260818-222041-777-jpg.jpg" alt="FEATURES IMAGE" width="600"/>
 </div>
 
-- ✅ simple bot
-- ✅ Ongoing maintenance 
-- ✅ Supports buttons
-- ✅ Supports downloads 
-- ✅ It supports advanced bot features
-- ✅ Very easy to modify 
-- ✅ Very fast bot
+-  simple bot
+-  Ongoing maintenance 
+-  Supports buttons
+-  Supports downloads 
+-  It supports advanced bot features
+-  Very easy to modify 
+-  Very fast bot
 
 ---
 
