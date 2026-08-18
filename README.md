@@ -89,7 +89,7 @@ npm start
   <img src="https://i.postimg.cc/85zy2FKZ/IMG-20260818-222037-002-jpg.jpg" alt="SUPPORT IMAGE" width="600"/>
 </div>
 
-- Owner: [click](https://wa.me/201515063273)
+- Support: [click](https://wa.me/201515063273)
 - Group: [Join here](https://chat.whatsapp.com/EsUJZScEgZp6zj7atQ4Thz)
 - Channel: [Join here](https://whatsapp.com/channel/0029VbC75tvHltY0oNSC4m3z)
 
@@ -98,7 +98,7 @@ npm start
 
 <div align="center">
 
-**Made with ❤️ by [MO Owner](https://github.com/moa926032-hub)**
+**Made with by [MO](https://github.com/moa926032-hub)**
 
 **© 2026 Devonic team - All Rights Reserved**
 
