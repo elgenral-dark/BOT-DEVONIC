@@ -66,7 +66,7 @@ npm start
 ## WispByte Hosting 
 
 <div align="center">
-  <img src="https://ibb.co/DDRLj1Ld" alt="WispByte IMAGE" width="200"/>
+  <img src="https://i.postimg.cc/0yDdQQGn/Whats-App-Image-2026-08-18-at-5-27-51-PM.jpg" alt="WispByte IMAGE" width="200"/>
 
 <h4>
 
