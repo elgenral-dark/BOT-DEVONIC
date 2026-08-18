@@ -10,7 +10,7 @@
   <br><br>
   
   [![GitHub](https://img.shields.io/badge/GitHub-MO-blue?style=for-the-badge&logo=github)](https://github.com/moa926032-hub)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Owner-green?style=for-the-badge&logo=whatsapp)](https://wa.me/201515063273)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Support-green?style=for-the-badge&logo=whatsapp)](https://wa.me/201515063273)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-Channel-orange?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbC75tvHltY0oNSC4m3z)
  
   **A simple WhatsApp bot from the Devonic team [Mywebsite](https://devonic-courses.vercel.app/)** 
