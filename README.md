@@ -36,7 +36,7 @@
 
 ---
 
-# 🚀 Installation
+# Installation
 
 <div align="center">
   <img src="https://i.postimg.cc/7ZcYG77g/IMG-20260818-222032-262-jpg.jpg" alt="INSTALLATION IMAGE" width="600"/>
