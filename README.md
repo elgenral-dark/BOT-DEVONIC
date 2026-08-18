@@ -1,9 +1,11 @@
 <div align="center">
   
   <!-- تأثير الإضاءة النيون التكنولوجي (قد لا يظهر في GitHub ولكنه يعمل في المواقع الخارجية ومحررات النصوص) -->
-  <h1 align="center" style="color: #00ffff; text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff, 0 0 20px #00ffff, 0 0 40px #00ffff, 0 0 80px #00ffff; font-family: 'Courier New', Courier, monospace; text-transform: uppercase; letter-spacing: 2px;">
-    Team Devonic - Bot whatsApp
-  </h1>
+  <div align="center"> 
+  <a href="https://git.io/typing-svg"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=DEVONIC-Bot;Devonic+team+Whatsapp+Bot;hello+everyone" alt="Typing SVG" />
+  </a> 
+</div> 
   
   <img src="https://i.postimg.cc/x1X4Cbnh/IMG-20260818-222044-105-jpg.jpg" alt="BANNER IMAGE" width="600"/>
   
