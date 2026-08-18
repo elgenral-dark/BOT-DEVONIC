@@ -1,13 +1,18 @@
-# 🤍 DEVONIC TEAM - WhatsApp Bot
-
 <div align="center">
-  <img src="https://i.postimg.cc/QtkyWmpn/Whats-App-Image-2026-08-18-at-5-22-06-PM.jpg" alt="IMAGE" width="500"/>
+  
+  <!-- تأثير الإضاءة النيون التكنولوجي (قد لا يظهر في GitHub ولكنه يعمل في المواقع الخارجية ومحررات النصوص) -->
+  <h1 align="center" style="color: #00ffff; text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff, 0 0 20px #00ffff, 0 0 40px #00ffff, 0 0 80px #00ffff; font-family: 'Courier New', Courier, monospace; text-transform: uppercase; letter-spacing: 2px;">
+    Team Devonic - Bot whatsApp
+  </h1>
+  
+  <img src="https://i.postimg.cc/x1X4Cbnh/IMG-20260818-222044-105-jpg.jpg" alt="BANNER IMAGE" width="600"/>
+  
+  <br><br>
   
   [![GitHub](https://img.shields.io/badge/GitHub-MO-blue?style=for-the-badge&logo=github)](https://github.com/moa926032-hub)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-Owner-green?style=for-the-badge&logo=whatsapp)](https://wa.me/201515063273)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-Channel-orange?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbC75tvHltY0oNSC4m3z)
  
-  
   **A simple WhatsApp bot from the Devonic team [Mywebsite](https://devonic-courses.vercel.app/)** 
   
    [Installation](#-installation) • [Support](#-support) • [Features](#-features) • [Hosting](#-hosting)
@@ -16,6 +21,10 @@
 ---
 
 # 🌹 Features
+
+<div align="center">
+  <img src="https://i.postimg.cc/QMy5MHN0/IMG-20260818-222041-777-jpg.jpg" alt="FEATURES IMAGE" width="600"/>
+</div>
 
 - ✅ simple bot
 - ✅ Ongoing maintenance 
@@ -29,13 +38,17 @@
 
 # 🚀 Installation
 
+<div align="center">
+  <img src="https://i.postimg.cc/7ZcYG77g/IMG-20260818-222032-262-jpg.jpg" alt="INSTALLATION IMAGE" width="600"/>
+</div>
+
 ### Termux (Android)
 
 ```bash
 termux-setup-storage
 pkg update -y && pkg upgrade -y
 pkg install git nodejs -y
-git clone https://github.com/moa926032-hub/BOT-DEVONIC.git
+git clone [https://github.com/moa926032-hub/BOT-DEVONIC.git](https://github.com/moa926032-hub/BOT-DEVONIC.git)
 cd BOT-DEVONIC 
 npm install
 npm start
