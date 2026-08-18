@@ -3,7 +3,7 @@
   <!-- تأثير الإضاءة النيون التكنولوجي (قد لا يظهر في GitHub ولكنه يعمل في المواقع الخارجية ومحررات النصوص) -->
   <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=DEVONIC-Bot;Devonic+team+Whatsapp+Bot;hello+everyone" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=0033cc&center=true&width=910&height=100&lines=DEVONIC-Bot;Devonic+team+Whatsapp+Bot;hello+everyone" alt="Typing SVG" />
   </a> 
 </div> 
   
