@@ -20,7 +20,7 @@
 
 ---
 
-# 🌹 Features
+# Features
 
 <div align="center">
   <img src="https://i.postimg.cc/QMy5MHN0/IMG-20260818-222041-777-jpg.jpg" alt="FEATURES IMAGE" width="600"/>
@@ -57,12 +57,16 @@ npm start
 ---
 
 
-# 🌐 Hosting 
+# Hosting 
+
+<div align="center">
+  <img src="https://i.postimg.cc/QMkwGZX1/IMG-20260818-222034-904-jpg.jpg" alt="HOSTING IMAGE" width="600"/>
+</div>
 
 ## WispByte Hosting 
 
 <div align="center">
-  <img src="https://i.postimg.cc/0yDdQQGn/Whats-App-Image-2026-08-18-at-5-27-51-PM.jpg" alt="IMAGE" width="200"/>
+  <img src="https://ibb.co/DDRLj1Ld" alt="WispByte IMAGE" width="200"/>
 
 <h4>
 
@@ -77,10 +81,13 @@ npm start
 
 </div>
 
-
 ---
 
-# 👤 support
+# Support
+
+<div align="center">
+  <img src="https://i.postimg.cc/85zy2FKZ/IMG-20260818-222037-002-jpg.jpg" alt="SUPPORT IMAGE" width="600"/>
+</div>
 
 - Owner: [click](https://wa.me/201515063273)
 - Group: [Join here](https://chat.whatsapp.com/EsUJZScEgZp6zj7atQ4Thz)
