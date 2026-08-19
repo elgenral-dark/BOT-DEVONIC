@@ -1,4 +1,4 @@
-# Anastasia WhatsApp Bot
+# Devonic WhatsApp Bot
 
 Arabic WhatsApp group-management and media bot, maintained with backwards-compatible plugins.
 
