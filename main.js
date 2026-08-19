@@ -69,7 +69,7 @@ async function startBot() {
     try {
         console.clear();
         console.log(asciiArt);
-        console.log(chalk.hex('#FFD700').bold('\nWELCOME TO ANASTASIA!\n'));
+        console.log(chalk.hex('#FFD700').bold('\nWELCOME TO DEVONIC!\n'));
 
         playSound('ANASTASIA.mp3');
 
