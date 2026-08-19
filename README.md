@@ -7,7 +7,7 @@
   </a> 
 </div> 
   
-  <img src="https://i.postimg.cc/x1X4Cbnh/IMG-20260818-222044-105-jpg.jpg" alt="BANNER IMAGE" width="600"/>
+  <img src="https://i.postimg.cc/x1X4Cbnh/IMG-20260818-222044-105-jpg.jp" alt="BANNER IMAGE" width="600"/>
   
   <br><br>
   
