@@ -25,7 +25,7 @@
 # Features
 
 <div align="center">
-  <img src="https://i.postimg.cc/QMy5MHN0/IMG-20260818-222041-777-jpg.jpg" alt="FEATURES IMAGE" width="600"/>
+  <img src="https://i.postimg.cc/4xgpDdXN/Videoshot-20260819-191128.jpg" alt="FEATURES IMAGE" width="600"/>
 </div>
 
 -  simple bot
@@ -41,7 +41,7 @@
 # Installation
 
 <div align="center">
-  <img src="https://i.postimg.cc/7ZcYG77g/IMG-20260818-222032-262-jpg.jpg" alt="INSTALLATION IMAGE" width="600"/>
+  <img src="https://i.postimg.cc/909qS3SF/Videoshot-20260819-191111.jpg" alt="INSTALLATION IMAGE" width="600"/>
 </div>
 
 ### Termux (Android)
@@ -62,7 +62,7 @@ npm start
 # Hosting 
 
 <div align="center">
-  <img src="https://i.postimg.cc/QMkwGZX1/IMG-20260818-222034-904-jpg.jpg" alt="HOSTING IMAGE" width="600"/>
+  <img src="https://i.postimg.cc/T305BJk3/Videoshot-20260819-191141.jpg" alt="HOSTING IMAGE" width="600"/>
 </div>
 
 ## WispByte Hosting 
@@ -72,7 +72,7 @@ npm start
 
 <h4>
 
-**For support, contact the developer [here](https://wa.me/201515063273?text=عند+مشكله)**  
+**For support, contact the developer [here](https://wa.me/201515063273?text=عندي+مشكله)**  
 **Discount code:** `MO-FORA1ON`
 
 </h4>
@@ -88,7 +88,7 @@ npm start
 # Support
 
 <div align="center">
-  <img src="https://i.postimg.cc/85zy2FKZ/IMG-20260818-222037-002-jpg.jpg" alt="SUPPORT IMAGE" width="600"/>
+  <img src="https://i.postimg.cc/mZ9zTsXz/Videoshot-20260819-190809.jpg" alt="SUPPORT IMAGE" width="600"/>
 </div>
 
 - Support: [click](https://wa.me/201515063273)
